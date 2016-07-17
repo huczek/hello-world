@@ -1,2 +1,3 @@
 # hello-world
-repozytorium testowe
+
+hejka! piszę sobie głupoty.
